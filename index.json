@@ -37,23 +37,6 @@
       "archive_url": "./fonce_animation_tools-1.2.9.zip",
       "archive_size": 14256122,
       "archive_hash": "sha256:83200c47167f8ada1a289a28ab6a13baff818f755471a97b69737b189de65d2c"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "your_repo_name",
-      "name": "FX Basic Extension Template",
-      "tagline": "A basic Extension Template to help you get started",
-      "version": "1.2.9",
-      "type": "add-on",
-      "maintainer": "your-mail@here.com",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.2.0",
-      "permissions": {},
-      "archive_url": "./your_repo_name-1.2.9.zip",
-      "archive_size": 14256130,
-      "archive_hash": "sha256:edb5ec26e4636e4ef907c703e4f917600456bd67ee8bd8fcbb8d25a295471358"
     }
   ]
 }
