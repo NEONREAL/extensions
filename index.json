@@ -4,23 +4,6 @@
   "data": [
     {
       "schema_version": "1.0.0",
-      "id": "fonce_animation_tools",
-      "name": "Tooling for Animation and Retargetting",
-      "tagline": "Tooling for Animation and Retargetting",
-      "version": "1.2.9",
-      "type": "add-on",
-      "maintainer": "fxn-work@proton.me",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.2.0",
-      "permissions": {},
-      "archive_url": "./fonce_animation_tools-1.2.9.zip",
-      "archive_size": 14256126,
-      "archive_hash": "sha256:b065a6e3d25142f8dc1fe2501306498e7749514c808a97c3ffa2f963a85f8a05"
-    },
-    {
-      "schema_version": "1.0.0",
       "id": "Fonce_internal_prism_tools",
       "name": "Fonce Prism Tools",
       "tagline": "Some Extra tooling",
@@ -37,6 +20,23 @@
       "archive_url": "./Fonce_internal_prism_tools-0.0.5.zip",
       "archive_size": 37746,
       "archive_hash": "sha256:7416206c9be2facca8cbff1578e4a5e80be38df163d826d7e912c9814f7a4a82"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "fonce_animation_tools",
+      "name": "Fonce Animation and Retargetting Toolkit",
+      "tagline": "Tooling for Animation and Retargetting",
+      "version": "1.4.0",
+      "type": "add-on",
+      "maintainer": "fxn-work@proton.me",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.5.0",
+      "permissions": {},
+      "archive_url": "./fonce_animation_tools-1.4.0.zip",
+      "archive_size": 14257738,
+      "archive_hash": "sha256:6ace76d356f8ffccfe26298b7ec14a6dc000fb35b25203937cac63ad2eab1ee5"
     }
   ]
 }
