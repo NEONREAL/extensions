@@ -23,6 +23,23 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "conduit_for_blender",
+      "name": "Connects Conduit and Blender",
+      "tagline": "Integration for Blender to connect to the Asset Manager Conduit",
+      "version": "0.0.1",
+      "type": "add-on",
+      "maintainer": "fxn-work@proton.me",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.5.0",
+      "permissions": {},
+      "archive_url": "./conduit_for_blender-0.0.1.zip",
+      "archive_size": 8701,
+      "archive_hash": "sha256:9b0b9981cab826efd60a5d03a294a070551b6e93847f6d917e469439261161c2"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "fonce_animation_tools",
       "name": "Fonce Animation and Retargetting Toolkit",
       "tagline": "Tooling for Animation and Retargetting",
