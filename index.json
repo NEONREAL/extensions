@@ -4,6 +4,23 @@
   "data": [
     {
       "schema_version": "1.0.0",
+      "id": "conduit_for_blender",
+      "name": "Conduit for Blender",
+      "tagline": "Integration for Blender to connect to the Asset Manager Conduit",
+      "version": "0.2.0",
+      "type": "add-on",
+      "maintainer": "fxn-work@proton.me",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.5.0",
+      "permissions": {},
+      "archive_url": "./conduit_for_blender-0.2.0.zip",
+      "archive_size": 10964,
+      "archive_hash": "sha256:02a318208e2e9b69d8bbceac93c418fd9e2c04a94076c78abe692a5f38e39cc2"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "Fonce_internal_prism_tools",
       "name": "Fonce Prism Tools",
       "tagline": "Some Extra tooling",
@@ -37,23 +54,6 @@
       "archive_url": "./fonce_animation_tools-1.4.1.zip",
       "archive_size": 14258454,
       "archive_hash": "sha256:3750ae412ebea14d77d36cf31cdd1ac65162f3c9be3481839b5933a7f5040388"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "conduit_for_blender",
-      "name": "Conduit for Blender",
-      "tagline": "Integration for Blender to connect to the Asset Manager Conduit",
-      "version": "0.1.1",
-      "type": "add-on",
-      "maintainer": "fxn-work@proton.me",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.5.0",
-      "permissions": {},
-      "archive_url": "./conduit_for_blender-0.1.1.zip",
-      "archive_size": 10944,
-      "archive_hash": "sha256:9b42913417350ea5c8bd04360525c78fccfad98bfe65e1faea554df1e4b77a4c"
     }
   ]
 }
