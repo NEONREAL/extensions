@@ -40,6 +40,23 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "your_repo_name",
+      "name": "FX Basic Extension Template",
+      "tagline": "A basic Extension Template to help you get started",
+      "version": "1.0.9",
+      "type": "add-on",
+      "maintainer": "your-mail@here.com",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "permissions": {},
+      "archive_url": "./your_repo_name-1.0.9.zip",
+      "archive_size": 7932,
+      "archive_hash": "sha256:d0b1de93dd51377ad3ac94c26e40c22064a8ee3d4a80c07f84e12551e6cb52fa"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "fonce_animation_tools",
       "name": "Fonce Animation and Retargetting Toolkit",
       "tagline": "Tooling for Animation and Retargetting",
