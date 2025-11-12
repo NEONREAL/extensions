@@ -40,6 +40,23 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "quick_vat",
+      "name": "Quick VAT Baker",
+      "tagline": "Lightweight VAT baker for low to mid resolution meshes",
+      "version": "1.0.9",
+      "type": "add-on",
+      "maintainer": "fxn-work@proton.me",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.5.0",
+      "permissions": {},
+      "archive_url": "./quick_vat-1.0.9.zip",
+      "archive_size": 7795,
+      "archive_hash": "sha256:2e590bbef1c40f211e8ef5cdab4a5278d8af521da2bb2d347879c848b194df74"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "fonce_animation_tools",
       "name": "Fonce Animation and Retargetting Toolkit",
       "tagline": "Tooling for Animation and Retargetting",
