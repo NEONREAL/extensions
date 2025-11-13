@@ -16,8 +16,8 @@
       "blender_version_min": "4.5.0",
       "permissions": {},
       "archive_url": "./conduit_for_blender-0.2.1.zip",
-      "archive_size": 11107,
-      "archive_hash": "sha256:b57606a5790529d8aaa96fd49cc62d1609d1681553eb30d3c4f94fe217f7ffd6"
+      "archive_size": 11429,
+      "archive_hash": "sha256:bea6e88c894d9dc8633665356d758d7bad4270a0e551315badcc1cb3a3244c7a"
     },
     {
       "schema_version": "1.0.0",
@@ -40,6 +40,23 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "fonce_animation_tools",
+      "name": "Fonce Animation and Retargetting Toolkit",
+      "tagline": "Tooling for Animation and Retargetting",
+      "version": "1.5.0",
+      "type": "add-on",
+      "maintainer": "fxn-work@proton.me",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.5.0",
+      "permissions": {},
+      "archive_url": "./fonce_animation_tools-1.5.0.zip",
+      "archive_size": 12515,
+      "archive_hash": "sha256:e84e20b6699e2d17a663a0fe66a6e8c4e2681999ded5104def6566488b897858"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "quick_vat",
       "name": "Quick VAT Baker",
       "tagline": "Lightweight VAT baker for low to mid resolution meshes",
@@ -54,23 +71,6 @@
       "archive_url": "./quick_vat-1.0.9.zip",
       "archive_size": 6537,
       "archive_hash": "sha256:0da4a27015b477e75ae9fa3e6c826ea1df02a765ebf8a5c87d62f95943ff7d3c"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "fonce_animation_tools",
-      "name": "Fonce Animation and Retargetting Toolkit",
-      "tagline": "Tooling for Animation and Retargetting",
-      "version": "1.4.1",
-      "type": "add-on",
-      "maintainer": "fxn-work@proton.me",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.5.0",
-      "permissions": {},
-      "archive_url": "./fonce_animation_tools-1.4.1.zip",
-      "archive_size": 14258454,
-      "archive_hash": "sha256:3750ae412ebea14d77d36cf31cdd1ac65162f3c9be3481839b5933a7f5040388"
     }
   ]
 }
