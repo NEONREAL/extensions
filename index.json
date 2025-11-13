@@ -17,7 +17,7 @@
       "permissions": {},
       "archive_url": "./conduit_for_blender-0.2.1.zip",
       "archive_size": 11429,
-      "archive_hash": "sha256:bea6e88c894d9dc8633665356d758d7bad4270a0e551315badcc1cb3a3244c7a"
+      "archive_hash": "sha256:7c1bb441166a2cfb734724832edd4eac50994e0389d10c2eb785b12b26be80e7"
     },
     {
       "schema_version": "1.0.0",
@@ -60,7 +60,7 @@
       "id": "quick_vat",
       "name": "Quick VAT Baker",
       "tagline": "Lightweight VAT baker for low to mid resolution meshes",
-      "version": "1.0.9",
+      "version": "1.1.0",
       "type": "add-on",
       "maintainer": "fxn-work@proton.me",
       "license": [
@@ -68,9 +68,9 @@
       ],
       "blender_version_min": "4.5.0",
       "permissions": {},
-      "archive_url": "./quick_vat-1.0.9.zip",
-      "archive_size": 6537,
-      "archive_hash": "sha256:0da4a27015b477e75ae9fa3e6c826ea1df02a765ebf8a5c87d62f95943ff7d3c"
+      "archive_url": "./quick_vat-1.1.0.zip",
+      "archive_size": 6618,
+      "archive_hash": "sha256:11d1846b43e298685b3c90814d78efd23a4df8eac0154fa4f9f539c8ad8ae564"
     }
   ]
 }
