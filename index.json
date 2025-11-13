@@ -52,8 +52,8 @@
       "blender_version_min": "4.5.0",
       "permissions": {},
       "archive_url": "./quick_vat-1.0.9.zip",
-      "archive_size": 7795,
-      "archive_hash": "sha256:2e590bbef1c40f211e8ef5cdab4a5278d8af521da2bb2d347879c848b194df74"
+      "archive_size": 6537,
+      "archive_hash": "sha256:0da4a27015b477e75ae9fa3e6c826ea1df02a765ebf8a5c87d62f95943ff7d3c"
     },
     {
       "schema_version": "1.0.0",
