@@ -17,7 +17,7 @@ jobs:
       - name: Install Blender
         uses: bradyajohnston/setup-blender@v3
         with:
-          version: "4.5"  # replace with the exact Blender version you want
+          version: "4.4"  # temporarily using 4.4 because 4.5 is down
 
       - name: build index.json
         run: |
