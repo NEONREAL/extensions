@@ -60,7 +60,7 @@
       "id": "quick_vat",
       "name": "Quick VAT Baker",
       "tagline": "Lightweight VAT baker for low to mid resolution meshes",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "type": "add-on",
       "maintainer": "fxn-work@proton.me",
       "license": [
@@ -68,9 +68,9 @@
       ],
       "blender_version_min": "4.5.0",
       "permissions": {},
-      "archive_url": "./quick_vat-0.2.0.zip",
-      "archive_size": 7831,
-      "archive_hash": "sha256:11c71edf596dd93edff9820cf31bdd525bb92e4699a45a34247ed1c161306318"
+      "archive_url": "./quick_vat-0.2.1.zip",
+      "archive_size": 7832,
+      "archive_hash": "sha256:d743ff896c555df4a7200126bd755ed8ab5c1e058765d58340ed300f8ed24785"
     }
   ]
 }
