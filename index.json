@@ -4,6 +4,23 @@
   "data": [
     {
       "schema_version": "1.0.0",
+      "id": "quick_vat",
+      "name": "Quick VAT Baker",
+      "tagline": "Lightweight VAT baker for low to mid resolution meshes",
+      "version": "0.2.3",
+      "type": "add-on",
+      "maintainer": "fxn-work@proton.me",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.5.0",
+      "permissions": {},
+      "archive_url": "./quick_vat-0.2.3.zip",
+      "archive_size": 8200,
+      "archive_hash": "sha256:5835cfa9fbeefcd2b6733ec95a187ab397e2f14778f64d12be9b747672aa2fed"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "conduit_for_blender",
       "name": "Conduit for Blender",
       "tagline": "Integration for Blender to connect to the Asset Manager Conduit",
@@ -54,23 +71,6 @@
       "archive_url": "./fonce_animation_tools-0.2.1.zip",
       "archive_size": 12572,
       "archive_hash": "sha256:7cd698b49127156f95dbcad438081e7065c30766a4f0ff7d33b26b2dd459c671"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "quick_vat",
-      "name": "Quick VAT Baker",
-      "tagline": "Lightweight VAT baker for low to mid resolution meshes",
-      "version": "0.2.2",
-      "type": "add-on",
-      "maintainer": "fxn-work@proton.me",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.5.0",
-      "permissions": {},
-      "archive_url": "./quick_vat-0.2.2.zip",
-      "archive_size": 7795,
-      "archive_hash": "sha256:858db656ef76440c063899b2af216b885a4b9c224b61b3a79227b113c5033f70"
     }
   ]
 }
