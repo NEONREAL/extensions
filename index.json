@@ -60,7 +60,7 @@
       "id": "conduit_for_blender",
       "name": "Conduit for Blender",
       "tagline": "Integration for Blender to connect to the Asset Manager Conduit",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "type": "add-on",
       "maintainer": "fxn-work@proton.me",
       "license": [
@@ -68,9 +68,9 @@
       ],
       "blender_version_min": "4.5.0",
       "permissions": {},
-      "archive_url": "./conduit_for_blender-0.2.2.zip",
-      "archive_size": 11381,
-      "archive_hash": "sha256:9682d3da163458582363f5c21c27f66bb0de9cfa8ad215531d8a2fabb713cd2d"
+      "archive_url": "./conduit_for_blender-0.2.3.zip",
+      "archive_size": 11380,
+      "archive_hash": "sha256:fd80a99dd308d1beccb170141cc10ed2d2de90b92d0e9ea675f6fac8bdff28ea"
     }
   ]
 }
