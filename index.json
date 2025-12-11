@@ -66,11 +66,11 @@
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
-      "blender_version_min": "5.0.0",
+      "blender_version_min": "4.5.0",
       "permissions": {},
       "archive_url": "./fonce_animation_tools-0.2.1.zip",
-      "archive_size": 12572,
-      "archive_hash": "sha256:7cd698b49127156f95dbcad438081e7065c30766a4f0ff7d33b26b2dd459c671"
+      "archive_size": 12573,
+      "archive_hash": "sha256:12978eedec5ee5875c7a98faf09b711513df573a13f4ef9ef42b22802c03e25f"
     }
   ]
 }
