@@ -40,6 +40,23 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "conduit_for_blender",
+      "name": "Conduit for Blender",
+      "tagline": "Integration for Blender to connect to the Asset Manager Conduit",
+      "version": "0.4.0",
+      "type": "add-on",
+      "maintainer": "fxn-work@proton.me",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.5.0",
+      "permissions": {},
+      "archive_url": "./conduit_for_blender-0.4.0.zip",
+      "archive_size": 16406,
+      "archive_hash": "sha256:37e563f149fd5e00e4733a4da9df6c734b94af2700909bd7d6263459537d1743"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "fonce_animation_tools",
       "name": "Fonce Animation and Retargetting Toolkit",
       "tagline": "Tooling for Animation and Retargetting",
@@ -54,23 +71,6 @@
       "archive_url": "./fonce_animation_tools-0.2.1.zip",
       "archive_size": 12572,
       "archive_hash": "sha256:7cd698b49127156f95dbcad438081e7065c30766a4f0ff7d33b26b2dd459c671"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "conduit_for_blender",
-      "name": "Conduit for Blender",
-      "tagline": "Integration for Blender to connect to the Asset Manager Conduit",
-      "version": "0.3.0",
-      "type": "add-on",
-      "maintainer": "fxn-work@proton.me",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.5.0",
-      "permissions": {},
-      "archive_url": "./conduit_for_blender-0.3.0.zip",
-      "archive_size": 11589,
-      "archive_hash": "sha256:9894d2a789ac1545d65d8ce9ffeef9935e02c76467f40889c4360335462d5d8b"
     }
   ]
 }
