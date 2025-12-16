@@ -60,7 +60,7 @@
       "id": "fonce_animation_tools",
       "name": "Fonce Animation and Retargetting Toolkit",
       "tagline": "Tooling for Animation and Retargetting",
-      "version": "0.2.1",
+      "version": "0.4.0",
       "type": "add-on",
       "maintainer": "fxn-work@proton.me",
       "license": [
@@ -68,9 +68,9 @@
       ],
       "blender_version_min": "4.5.0",
       "permissions": {},
-      "archive_url": "./fonce_animation_tools-0.2.1.zip",
-      "archive_size": 12573,
-      "archive_hash": "sha256:12978eedec5ee5875c7a98faf09b711513df573a13f4ef9ef42b22802c03e25f"
+      "archive_url": "./fonce_animation_tools-0.4.0.zip",
+      "archive_size": 12570,
+      "archive_hash": "sha256:15161e80da4b0d3d1854943afd9afd966718630b7a120cd06909fce0a0d1c760"
     }
   ]
 }
