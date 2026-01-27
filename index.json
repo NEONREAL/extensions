@@ -52,8 +52,8 @@
       "blender_version_min": "4.5.0",
       "permissions": {},
       "archive_url": "./conduit_for_blender-0.4.0.zip",
-      "archive_size": 16406,
-      "archive_hash": "sha256:37e563f149fd5e00e4733a4da9df6c734b94af2700909bd7d6263459537d1743"
+      "archive_size": 16466,
+      "archive_hash": "sha256:aa3f7e284777731ba3f6f868298ff09bbb3d6196893cd2990901e3f9f4c8c14c"
     },
     {
       "schema_version": "1.0.0",
