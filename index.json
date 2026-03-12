@@ -4,23 +4,6 @@
   "data": [
     {
       "schema_version": "1.0.0",
-      "id": "quick_vat",
-      "name": "Quick VAT Baker",
-      "tagline": "Lightweight VAT baker for low to mid resolution meshes",
-      "version": "0.2.3",
-      "type": "add-on",
-      "maintainer": "fxn-work@proton.me",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.5.0",
-      "permissions": {},
-      "archive_url": "./quick_vat-0.2.3.zip",
-      "archive_size": 544556,
-      "archive_hash": "sha256:ab38ad0c512defae5248096452b3efdb25eaf986ef03fb5bcfdcb66ac9a848eb"
-    },
-    {
-      "schema_version": "1.0.0",
       "id": "Fonce_internal_prism_tools",
       "name": "Fonce Prism Tools",
       "tagline": "Some Extra tooling",
@@ -40,6 +23,40 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "quick_vat",
+      "name": "Quick VAT Baker",
+      "tagline": "Lightweight VAT baker for low to mid resolution meshes",
+      "version": "0.2.3",
+      "type": "add-on",
+      "maintainer": "fxn-work@proton.me",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.5.0",
+      "permissions": {},
+      "archive_url": "./quick_vat-0.2.3.zip",
+      "archive_size": 544556,
+      "archive_hash": "sha256:ab38ad0c512defae5248096452b3efdb25eaf986ef03fb5bcfdcb66ac9a848eb"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "conduit_for_blender",
+      "name": "Conduit for Blender",
+      "tagline": "Integration for Blender to connect to the Asset Manager Conduit",
+      "version": "0.5.2",
+      "type": "add-on",
+      "maintainer": "fxn-work@proton.me",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "permissions": {},
+      "archive_url": "./conduit_for_blender-0.5.2.zip",
+      "archive_size": 17036,
+      "archive_hash": "sha256:bd5638be15a9c2c317692173d70f11f0541b160af8f1f686f7a653211d728e43"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "fonce_animation_tools",
       "name": "Fonce Animation and Retargetting Toolkit",
       "tagline": "Tooling for Animation and Retargetting",
@@ -54,23 +71,6 @@
       "archive_url": "./fonce_animation_tools-0.4.0.zip",
       "archive_size": 12570,
       "archive_hash": "sha256:15161e80da4b0d3d1854943afd9afd966718630b7a120cd06909fce0a0d1c760"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "conduit_for_blender",
-      "name": "Conduit for Blender",
-      "tagline": "Integration for Blender to connect to the Asset Manager Conduit",
-      "version": "0.5.2",
-      "type": "add-on",
-      "maintainer": "fxn-work@proton.me",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.5.0",
-      "permissions": {},
-      "archive_url": "./conduit_for_blender-0.5.2.zip",
-      "archive_size": 17036,
-      "archive_hash": "sha256:2f8b40c7479db169955b4b138b17e0a4bc69a0fa9e322e8e4b8ee26a3dc441d7"
     }
   ]
 }
