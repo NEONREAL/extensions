@@ -23,23 +23,6 @@
     },
     {
       "schema_version": "1.0.0",
-      "id": "quick_vat",
-      "name": "Quick VAT Baker",
-      "tagline": "Lightweight VAT baker for low to mid resolution meshes",
-      "version": "0.2.3",
-      "type": "add-on",
-      "maintainer": "fxn-work@proton.me",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.5.0",
-      "permissions": {},
-      "archive_url": "./quick_vat-0.2.3.zip",
-      "archive_size": 544556,
-      "archive_hash": "sha256:ab38ad0c512defae5248096452b3efdb25eaf986ef03fb5bcfdcb66ac9a848eb"
-    },
-    {
-      "schema_version": "1.0.0",
       "id": "conduit_for_blender",
       "name": "Conduit for Blender",
       "tagline": "Integration for Blender to connect to the Asset Manager Conduit",
@@ -71,6 +54,40 @@
       "archive_url": "./fonce_animation_tools-0.4.0.zip",
       "archive_size": 12570,
       "archive_hash": "sha256:15161e80da4b0d3d1854943afd9afd966718630b7a120cd06909fce0a0d1c760"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "quick_vat",
+      "name": "Quick VAT Baker",
+      "tagline": "Lightweight VAT baker for low to mid resolution meshes",
+      "version": "0.2.3",
+      "type": "add-on",
+      "maintainer": "fxn-work@proton.me",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.5.0",
+      "permissions": {},
+      "archive_url": "./quick_vat-0.2.3.zip",
+      "archive_size": 544556,
+      "archive_hash": "sha256:ab38ad0c512defae5248096452b3efdb25eaf986ef03fb5bcfdcb66ac9a848eb"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "ferdi_mocap_manager",
+      "name": "Ferdi Goes Youtube Mocap Manager",
+      "tagline": "Basic script to sync face + body mocap",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "fxn-work@proton.me",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.5.7",
+      "permissions": {},
+      "archive_url": "./ferdi_mocap_manager-1.0.0.zip",
+      "archive_size": 7951,
+      "archive_hash": "sha256:99ba4d91bcddceea2a192980af131774048ce1bdc0abcf800fd07def5c1e12a3"
     }
   ]
 }
