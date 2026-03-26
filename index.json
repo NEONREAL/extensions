@@ -4,6 +4,23 @@
   "data": [
     {
       "schema_version": "1.0.0",
+      "id": "ferdi_mocap_manager",
+      "name": "Ferdi Goes Youtube Mocap Manager",
+      "tagline": "Basic script to sync face + body mocap",
+      "version": "1.1.0",
+      "type": "add-on",
+      "maintainer": "fxn-work@proton.me",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.5.7",
+      "permissions": {},
+      "archive_url": "./ferdi_mocap_manager-1.1.0.zip",
+      "archive_size": 8313,
+      "archive_hash": "sha256:f2573dbe6f61250f31ae050fdfe9d979a936a10ab83018fb657611782ca4fb51"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "Fonce_internal_prism_tools",
       "name": "Fonce Prism Tools",
       "tagline": "Some Extra tooling",
@@ -20,6 +37,23 @@
       "archive_url": "./Fonce_internal_prism_tools-0.0.5.zip",
       "archive_size": 37746,
       "archive_hash": "sha256:7416206c9be2facca8cbff1578e4a5e80be38df163d826d7e912c9814f7a4a82"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "quick_vat",
+      "name": "Quick VAT Baker",
+      "tagline": "Lightweight VAT baker for low to mid resolution meshes",
+      "version": "0.2.3",
+      "type": "add-on",
+      "maintainer": "fxn-work@proton.me",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.5.0",
+      "permissions": {},
+      "archive_url": "./quick_vat-0.2.3.zip",
+      "archive_size": 544556,
+      "archive_hash": "sha256:ab38ad0c512defae5248096452b3efdb25eaf986ef03fb5bcfdcb66ac9a848eb"
     },
     {
       "schema_version": "1.0.0",
@@ -54,40 +88,6 @@
       "archive_url": "./fonce_animation_tools-0.4.0.zip",
       "archive_size": 12570,
       "archive_hash": "sha256:15161e80da4b0d3d1854943afd9afd966718630b7a120cd06909fce0a0d1c760"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "quick_vat",
-      "name": "Quick VAT Baker",
-      "tagline": "Lightweight VAT baker for low to mid resolution meshes",
-      "version": "0.2.3",
-      "type": "add-on",
-      "maintainer": "fxn-work@proton.me",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.5.0",
-      "permissions": {},
-      "archive_url": "./quick_vat-0.2.3.zip",
-      "archive_size": 544556,
-      "archive_hash": "sha256:ab38ad0c512defae5248096452b3efdb25eaf986ef03fb5bcfdcb66ac9a848eb"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "ferdi_mocap_manager",
-      "name": "Ferdi Goes Youtube Mocap Manager",
-      "tagline": "Basic script to sync face + body mocap",
-      "version": "1.0.0",
-      "type": "add-on",
-      "maintainer": "fxn-work@proton.me",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.5.7",
-      "permissions": {},
-      "archive_url": "./ferdi_mocap_manager-1.0.0.zip",
-      "archive_size": 7951,
-      "archive_hash": "sha256:99ba4d91bcddceea2a192980af131774048ce1bdc0abcf800fd07def5c1e12a3"
     }
   ]
 }
